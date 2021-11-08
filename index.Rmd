@@ -149,7 +149,7 @@ class: title-slide
 - 2021년 2월: 1회 졸업생 총 12명
 
 .mt-03.f-130[
-| &nbsp;&nbsp;구분&nbsp;&nbsp; | .center[국내학생] | 국제학생 |
+| &nbsp;&nbsp;구분&nbsp;&nbsp; | .center[한국학생] | 외국인학생 |
 |:---:|:---|:---:|
 | 총원 | .center[6명] | 6명 |
 | 분야 | &nbsp;&nbsp;2명: AI 및 IT 기업 <br> &nbsp;&nbsp;2명: 대학원 진학 <br> &nbsp;&nbsp;2명: 선문대학교 교직원&nbsp;&nbsp; | &nbsp;&nbsp;6명: AI 및 IT 기업&nbsp;&nbsp; |
