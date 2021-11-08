@@ -1,6 +1,6 @@
 ---
 title: 🎓 선문대학교 AI소프트웨어학과 👩🏻‍💻
-subtitle: 편입학 설명회
+subtitle: 학과 설명회
 author: "김수환"
 institute: "https://www.soohwan.kim"
 date: ""
